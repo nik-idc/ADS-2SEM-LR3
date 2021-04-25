@@ -1,8 +1,8 @@
 #pragma once
 #include "stuff.h"
 
-#ifndef GNODE_H
-#define GNODE_H
+#ifndef PAIR_H
+#define PAIR_H
 
 class pair
 {
