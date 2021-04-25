@@ -1,0 +1,6 @@
+S M N/A N/A
+S A 20 N/A
+A M 2 2
+A H N/A 5
+H K N/A 12
+K M 7 11
