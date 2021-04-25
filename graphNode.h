@@ -1,7 +1,7 @@
 #pragma once
 
-#ifndef ADJVERTS_H
-#define ADJVERTS_H
+#ifndef GRAPHNODE_H
+#define GRAPHNODE_H
 
 #include "pair.h"
 
